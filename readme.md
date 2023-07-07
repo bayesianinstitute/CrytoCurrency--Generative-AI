@@ -19,10 +19,21 @@ To run the Trader and Investor version of the app, follow these steps:
    ```
     streamlit run main.py
    ```
+
 5. Press Enter to continue after the app starts.
-6. In this, you have two options: selecting the Admin or Client version.
-7. Select a cryptocurrency and choose a time range for analysis.
-8. Enter your prompt to get an answer related to the selected cryptocurrency.
+6. There are two accounts Admin and User for Login
+
+        Admin
+
+        Username - admin
+        Password - afaan@bdcp
+        User
+
+        Username - user
+        Password - jason@bdcp
+7. In this, you have two options: selecting the Admin or Client version.
+8. Select a cryptocurrency and choose a time range for analysis.
+9. Enter your prompt to get an answer related to the selected cryptocurrency.
 
 Admin App:
 To run the Admin version of the app, follow these steps:
