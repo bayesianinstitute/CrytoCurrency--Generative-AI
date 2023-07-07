@@ -1,4 +1,4 @@
-Crypto Currency App
+**Crypto Currency App**
 
 This is a cryptocurrency analysis and trading application built using OpenAI and Langchain. The app provides features for both traders and investors to analyze and trade various cryptocurrencies.
 
@@ -8,6 +8,7 @@ Installation:
 - Open a terminal or command prompt and navigate to the project directory.
 - Run the following command to install the required dependencies:
     pip install -r requirements.txt
+- if TA-lib is not install refer to https://github.com/TA-Lib/ta-lib-python
 
 Usage:
 Trader and Investor App:
