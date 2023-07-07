@@ -15,25 +15,31 @@ To run the Trader and Investor version of the app, follow these steps:
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
 3. Run the following command:
+   ```
     streamlit run main.py
-4. Press Enter to continue after the app starts.
-5. In this, you have two options: selecting the Admin or Client version.
-6. Select a cryptocurrency and choose a time range for analysis.
-7. Enter your prompt to get an answer related to the selected cryptocurrency.
+   ```
+5. Press Enter to continue after the app starts.
+6. In this, you have two options: selecting the Admin or Client version.
+7. Select a cryptocurrency and choose a time range for analysis.
+8. Enter your prompt to get an answer related to the selected cryptocurrency.
 
 Admin App:
 To run the Admin version of the app, follow these steps:
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
 3. Run the following command:
+   ```
     streamlit run Finance-Admin.py
+   ```
 
 Client App:
 To run the Client version of the app, follow these steps:
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
 3. Run the following command:
+   ```
     streamlit run Finance-Client.py
+   ```
 
 Uploading Custom Finance Reports:
 The app also provides an option to upload custom finance reports for analysis. You can use this feature to analyze your own financial data. Simply follow these steps:
