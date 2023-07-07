@@ -7,7 +7,9 @@ Installation:
 - Clone the repository to your local machine.
 - Open a terminal or command prompt and navigate to the project directory.
 - Run the following command to install the required dependencies:
-    pip install -r requirements.txt
+-   ```
+      pip install -r requirements.txt
+    ```
 - if TA-lib is not install refer to https://github.com/TA-Lib/ta-lib-python
 
 Usage:
