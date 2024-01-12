@@ -25,14 +25,14 @@ To run the Trader and Investor version of the app, follow these steps:
 5. Press Enter to continue after the app starts.
 6. There are two accounts Admin and User for Login
 
-        Admin
-
-        Username - admin
-        Password - afaan@bdcp
-        User
-
-        Username - user
-        Password - jason@bdcp
+       Admin
+      
+       Username - admin
+       Password - bdcp@IN23
+       User
+      
+       Username - user
+       Password - bdcp@LA23
 7. In this, you have two options: selecting the Admin or Client version.
 8. Select a cryptocurrency and choose a time range for analysis.
 9. Enter your prompt to get an answer related to the selected cryptocurrency.
